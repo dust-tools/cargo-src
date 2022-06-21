@@ -1,8 +1,6 @@
-# cargo src
+# payload src
 
-[![Build Status](https://travis-ci.org/nrc/cargo-src.svg?branch=master)](https://travis-ci.org/nrc/cargo-src)
-
-A Rust source browser. Explore your Rust project with semantic understanding of
+A Dust source browser. Explore your Dust project with semantic understanding of
 the code. Features:
 
 * syntax highlighting
